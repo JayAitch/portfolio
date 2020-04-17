@@ -1,10 +1,14 @@
+body{
+    font-family: Arial, "Roboto Light", monospace;
+    background-color: rgb(244,244,244);
+}
 #content{
     width:60%;
     margin:0 auto;
 }
 li{
     list-style: none;
-    background-color: aliceblue;
+    background-color: rgba(244,244,244, 0.4);
     padding: 45px;
 }
 li p,  li a{
