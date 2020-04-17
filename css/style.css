@@ -1,4 +1,17 @@
-content{
+#content{
     width:60%;
     margin:0 auto;
+}
+li{
+    list-style: none;
+    background-color: aliceblue;
+    padding: 45px;
+}
+li p,  li a{
+    display: inline-block;
+    width: 45%;
+
+}
+li a{
+    text-align: center;
 }
