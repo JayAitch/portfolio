@@ -3,19 +3,21 @@ body{
     background-color: rgb(244,244,244);
 }
 #content{
-    width:60%;
+    width:80%;
     margin:0 auto;
 }
-li{
-    list-style: none;
-    background-color: rgba(244,244,244, 0.4);
-    padding: 45px;
+p{
+	margin: 8px;
 }
-li p,  li a{
-    display: inline-block;
-    width: 45%;
-
+.content-subhead {
+    text-transform: uppercase;
+    color: #aaa;
+    border-bottom: 1px solid #eee;
+    padding: 0.4em 0;
+    font-size: 80%;
+    font-weight: 500;
+    letter-spacing: 0.1em;
 }
-li a{
-    text-align: center;
+video{
+    width: 100%;
 }
